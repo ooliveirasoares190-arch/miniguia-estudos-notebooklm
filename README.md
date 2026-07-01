@@ -8,7 +8,7 @@ Projeto criado com o **NotebookLM**, reunindo fontes oficiais e abertas sobre fi
 
 **Tema escolhido:** Educação Financeira Pessoal para Iniciantes — do orçamento doméstico ao primeiro investimento em renda fixa (Tesouro Direto).
 
-**Por que esse tema?** É a base de qualquer decisão financeira futura (investir, tirar um empréstimo, planejar aposentadoria) e existe farto material oficial, gratuito e confiável em português, produzido por órgãos reguladores brasileiros — ideal para testar a IA como ferramenta de estudo com fontes de alta qualidade.
+**Por que esse tema?** É a base de qualquer decisão financeira futura ( investir, tirar um empréstimo, planejar aposentadoria ) e existe farto material oficial, gratuito e confiável em português, produzido por órgãos reguladores brasileiros — ideal para testar a IA como ferramenta de estudo com fontes de alta qualidade.
 
 **Objetivos de estudo:**
 - Entender os conceitos centrais de gestão de orçamento pessoal (receitas, despesas, superávit/déficit).
